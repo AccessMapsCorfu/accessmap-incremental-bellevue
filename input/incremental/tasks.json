@@ -1,7 +1,7 @@
 {
     "tasking_managers": [{
         "url": "http://tasks.opensidewalks.com",
-        "crossing_projects": [1, 7, 29, 31, 34, 36, 44, 45, 49, 51, 58, 68, 73],
-        "sidewalk_projects": [2, 27, 32, 59, 69]
+        "crossing_projects": [68],
+        "sidewalk_projects": [68]
     }]
 }
